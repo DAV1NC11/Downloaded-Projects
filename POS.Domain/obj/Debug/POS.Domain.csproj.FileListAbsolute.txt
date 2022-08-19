@@ -1,0 +1,4 @@
+C:\Users\pc\Documents\Chaga John\All Projects\Downloaded Projects\POS\POS.Domain\obj\Debug\POS.Domain.csproj.AssemblyReference.cache
+C:\Users\pc\Documents\Chaga John\All Projects\Downloaded Projects\POS\POS.Domain\obj\Debug\POS.Domain.Properties.Resources.resources
+C:\Users\pc\Documents\Chaga John\All Projects\Downloaded Projects\POS\POS.Domain\obj\Debug\POS.Domain.csproj.GenerateResource.cache
+C:\Users\pc\Documents\Chaga John\All Projects\Downloaded Projects\POS\POS.Domain\obj\Debug\POS.Domain.csproj.CoreCompileInputs.cache
